@@ -1,0 +1,25 @@
+Progress Belajar
+
+- Python
+Not Started Yet
+
+- Git and Github
+*Apa itu Git and Github
+*Work With Github
+*Branch
+Fork
+Work With Git
+Git Branch and Merge
+Git Merge Conflict
+Git Remote
+Github Pages
+Multiple Remotes
+Remote Branch
+Gitignore
+Git Rebase
+Git and Web Hosting
+
+- Laravel
+
+- MySQL
+not yet
